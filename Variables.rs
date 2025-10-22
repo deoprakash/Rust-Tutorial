@@ -9,12 +9,14 @@ fn main(){
 
 //  to make it mutable use 'mut' keyword
 
-/* 
+
 fn main(){
-    let mut a  = 10; 
+    let mut a = 10; 
     a = 45;
+
+    println!("{}", a);
 }
-*/
+
 
 // Constant conventions -> const keyword with variable in uppercase
 
